@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\chessGame-console\chessGame-console\bin\Debug\chessGame-console.exe.config
+E:\Treinamento CSharp\chessGame-console\chessGame-console\bin\Debug\chessGame-console.exe
+E:\Treinamento CSharp\chessGame-console\chessGame-console\bin\Debug\chessGame-console.pdb
+E:\Treinamento CSharp\chessGame-console\chessGame-console\obj\Debug\chessGame-console.csprojAssemblyReference.cache
+E:\Treinamento CSharp\chessGame-console\chessGame-console\obj\Debug\chessGame-console.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\chessGame-console\chessGame-console\obj\Debug\chessGame-console.exe
+E:\Treinamento CSharp\chessGame-console\chessGame-console\obj\Debug\chessGame-console.pdb
